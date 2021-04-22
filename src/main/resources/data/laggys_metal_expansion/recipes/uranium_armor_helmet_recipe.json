@@ -1,0 +1,29 @@
+{
+  "group": "laggys_metal_expansion",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "laggys_metal_expansion:uranium_ingot"
+    },
+    "1": {
+      "item": "laggys_metal_expansion:uranium_ingot"
+    },
+    "2": {
+      "item": "laggys_metal_expansion:uranium_ingot"
+    },
+    "3": {
+      "item": "laggys_metal_expansion:uranium_ingot"
+    },
+    "5": {
+      "item": "laggys_metal_expansion:uranium_ingot"
+    }
+  },
+  "result": {
+    "item": "laggys_metal_expansion:uranium_armor_helmet",
+    "count": 1
+  }
+}

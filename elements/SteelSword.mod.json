@@ -1,0 +1,31 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "steel_sword",
+    "customModelName": "Normal",
+    "name": "Steel Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MetalsExpansion"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 7.0,
+    "attackSpeed": 0.9,
+    "enchantability": 30,
+    "damageVsEntity": 5.0,
+    "usageCount": 500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SteelIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

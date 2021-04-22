@@ -1,0 +1,13 @@
+{
+  "group": "laggys_metal_expansion",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "laggys_metal_expansion:nickle_block"
+    }
+  ],
+  "result": {
+    "item": "laggys_metal_expansion:nickle_ingot",
+    "count": 9
+  }
+}

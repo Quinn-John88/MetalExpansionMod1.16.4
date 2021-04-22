@@ -1,0 +1,27 @@
+{
+  "group": "laggys_metal_expansion",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "laggys_metal_expansion:copper_ingot"
+    },
+    "1": {
+      "item": "laggys_metal_expansion:copper_ingot"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "laggys_metal_expansion:copper_hoe",
+    "count": 1
+  }
+}

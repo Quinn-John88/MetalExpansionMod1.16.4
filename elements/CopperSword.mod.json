@@ -1,0 +1,31 @@
+{
+  "_fv": 15,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "copper_sword",
+    "customModelName": "Normal",
+    "name": "Copper Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:MetalsExpansion"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 17,
+    "damageVsEntity": 6.2,
+    "usageCount": 300,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:CopperIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

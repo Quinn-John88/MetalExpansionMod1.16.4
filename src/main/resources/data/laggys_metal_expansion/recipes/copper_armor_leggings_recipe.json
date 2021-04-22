@@ -1,0 +1,36 @@
+{
+  "group": "laggys_metal_expansion",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "laggys_metal_expansion:copper_ingot"
+    },
+    "1": {
+      "item": "laggys_metal_expansion:copper_ingot"
+    },
+    "2": {
+      "item": "laggys_metal_expansion:copper_ingot"
+    },
+    "3": {
+      "item": "laggys_metal_expansion:copper_ingot"
+    },
+    "5": {
+      "item": "laggys_metal_expansion:copper_ingot"
+    },
+    "6": {
+      "item": "laggys_metal_expansion:copper_ingot"
+    },
+    "8": {
+      "item": "laggys_metal_expansion:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "laggys_metal_expansion:copper_armor_leggings",
+    "count": 1
+  }
+}

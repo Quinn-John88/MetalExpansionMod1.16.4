@@ -1,0 +1,12 @@
+{
+  "group": "laggys_metal_expansion",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "laggys_metal_expansion:copper_ore"
+  },
+  "result": {
+    "item": "laggys_metal_expansion:copper_ingot"
+  }
+}

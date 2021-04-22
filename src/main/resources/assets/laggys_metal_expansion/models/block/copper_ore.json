@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "laggys_metal_expansion:blocks/copperore",
+    "up": "laggys_metal_expansion:blocks/copperore",
+    "north": "laggys_metal_expansion:blocks/copperore",
+    "east": "laggys_metal_expansion:blocks/copperore",
+    "south": "laggys_metal_expansion:blocks/copperore",
+    "west": "laggys_metal_expansion:blocks/copperore",
+    "particle": "laggys_metal_expansion:blocks/copperore"
+  }
+}
